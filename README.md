@@ -1,4 +1,6 @@
 
-# Run the application
+# Pandas Streamlit App
+
+### Run the application
 
 `streamlit run app.py`
